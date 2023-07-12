@@ -4,7 +4,7 @@ pytest-cov
 jupyter
 sphinx==4.2.0
 sphinxcontrib-bibtex~=2.3
-numpydoc~=1.1
+numpydoc~=1.5
 nbsphinx~=0.8
 nbformat~=5.4.0
 sphinx-gallery~=0.8
